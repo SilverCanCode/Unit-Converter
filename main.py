@@ -26,7 +26,7 @@ def api():
         return  # Exit the function if the value is not numeric
 
     querystring = {"value": value, "from": from_unit, "to": to_unit}
-
+    # Change To your own API key. If you can do please read the documentation given.
     headers = {
         "X-RapidAPI-Key": "<YOUR API KEY>",
         "X-RapidAPI-Host": "<YOUR API HOST>"
