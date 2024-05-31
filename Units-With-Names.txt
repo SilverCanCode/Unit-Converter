@@ -1,0 +1,43 @@
+[
+  "nm",
+  "μm",
+  "mm",
+  "cm",
+  "m",
+  "km",
+  "in",
+  "yd",
+  "ft-us",
+  "ft",
+  "fathom",
+  "mi",
+  "nMi"
+]
+
+
+0:"acceleration"
+1:"angle"
+2:"apparentPower"
+3:"area"
+4:"charge"
+5:"current"
+6:"digital"
+7:"each"
+8:"energy"
+9:"force"
+10:"frequency"
+11:"illuminance"
+12:"length"
+13:"mass"
+14:"massFlowRate"
+15:"pace"
+16:"partsPer"
+17:"pieces"
+18:"power"
+19:"pressure"
+20:"reactiveEnergy"
+21:"reactivePower"
+22:"speed"
+23:"temperature"
+24:"time"
+25:"voltage"	
